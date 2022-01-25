@@ -39,4 +39,4 @@ constraint
                 
 solve satisfy;
 
-output["Piano di studi del CdS "++ show(CdS) ++ ": \n"] ++ [show(Insegnamenti[i]) ++ "=" ++ show(PdS[i]) ++ "\n"| i in num_ins];
+output["Piano di studi del CdS "++ show(CdS) ++ ": \n\n"] ++ [show(Insegnamenti[i]) ++ "=" ++ show(PdS[i]) ++ "\n"| i in num_ins];
