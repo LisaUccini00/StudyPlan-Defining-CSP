@@ -1,0 +1,21 @@
+t = 3;
+cmin = 3;
+cmax = 95;
+amin = 3;
+amax = 84;
+num_ins = 1..28;
+
+CdS="Ingengeria biomedica";
+
+Insegnamenti=["Analisi matematica 1/Analisi matematica 2","Chimica", "Fisica/Elettromagnetismo", "Fondamenti Informatica", "Geometria e algebra lineare/Calcolo numerico" ,"Inglese", 
+"Elettronica per sistemi biomedicali", "Elettrotecnica", "Fisiologia/Principi di fisiopatologia", "Fondamenti di automatica", "Fondamenti di meccanica", "Ingegneria del software e basi di dati", 
+"Misure e incertezza", "Teoria dei segnali per la bioingegneria",
+"Affidabilità e certificazione", "Automazione industriale", "Biomeccanica", "Controlli automatici", "Costruzioni biomeccaniche", "Disegno meccanico e Cad", "Fondamenti di fluidodinamica", 
+"Intelligenza artificiale e apprendimento automatico", "Laboratorio bioingegneria",
+"Protocolli di rete e sicurezza dell'informazione", "Sensoristica per strumentazione biomedicale", "Strumentazione biomedica e bioimmagini", 
+"Tecniche di ottimizzazione e data science per la bioingegneria", "Tecnologie dei materiali"];
+
+n_crediti=[12,9,15,9,9,3,6,6,6,9,9,6,12,6,6,6,9,6,6,6,6,6,3,6,6,12,6,6];
+
+SSD=[SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A];
+

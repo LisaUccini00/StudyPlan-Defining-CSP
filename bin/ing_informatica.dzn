@@ -1,0 +1,17 @@
+t = 6;
+cmin = 3;
+cmax = 108;
+amin = 3;
+amax = 66;
+num_ins = 1..27;
+
+CdS="Ingengeria informatica"
+
+Insegnamenti=["Analisi matematica 1","Fisica 1", "Fondamenti di informatica/programmazione", "Geometria e algebra lineare/Calcolo numerico", "Laboratorio programmazione" ,"Teoria dei circuiti", "Inglese", 
+"Algoritmi e strutture dati", "Calcolatori/Sistemi operativi", "Fisica 2", "Fondamenti di automatica", "Fondamenti di ricerca operativa", "Fondamenti di segnali e trasmissione", "Laboratorio di algoritmi", "Analisi matematica 2 e probabilità", "Fondamenti di reti di telecomunicazioni", 
+"Basi di dati/Ingengeria del software", "Elettronica digitale", "Informatica industriale", "Informatica teorica", "Intelligenza artificiale", "Laboratorio di informatica", "Matematica discreta e codici", "Metodi matematici", "Progettazione e produzione multimediale", "Sistemi distribuiti", "Statistica"];
+
+n_crediti=[9,6,15,12,3,6,3,6,12,6,9,6,9,3,6,6,12,6,6,6,6,3,6,6,6,6,6];
+
+SSD=[SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C,SSD_A,SSD_C];
+
