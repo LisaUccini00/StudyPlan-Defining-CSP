@@ -5,7 +5,7 @@ amin = 3;
 amax = 66;
 num_ins = 1..27;
 
-CdS="Ingengeria informatica"
+CdS="Ingengeria informatica";
 
 Insegnamenti=["Analisi matematica 1","Fisica 1", "Fondamenti di informatica/programmazione", "Geometria e algebra lineare/Calcolo numerico", "Laboratorio programmazione" ,"Teoria dei circuiti", "Inglese", 
 "Algoritmi e strutture dati", "Calcolatori/Sistemi operativi", "Fisica 2", "Fondamenti di automatica", "Fondamenti di ricerca operativa", "Fondamenti di segnali e trasmissione", "Laboratorio di algoritmi", "Analisi matematica 2 e probabilità", "Fondamenti di reti di telecomunicazioni", 
