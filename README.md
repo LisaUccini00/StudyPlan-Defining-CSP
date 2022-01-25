@@ -23,6 +23,13 @@ Un file così definito può essere incluso nel modello (include "datafile.dzn").
 
 Per la risoluzione è suggerito il *solver* Gecode 6.3.0, già implementato nel bundle MiniZinc. 
 
+## Esecuzione
+
+Per quanto riguarda l'esecuzione del software è possibile: 
+
+- utilizzare l'IDE di MiniZinc, in questo modo otteniamo un unica soluzione al problema CSP;
+- eseguire la seguente riga di comando: `$minizinc -a schedule.mzn`, in questo modo è possibile ottenere un elenco di più soluzioni.
+
 ## Note
 I datafile di esempio rappresentano una libera interpretazione di alcuni Corsi di Studi forniti dall'[Università degli Studi di Firenze](https://www.unifi.it/), in paricolar modo Ingengeria Informatica e Ingegneria Biomedica. 
 
